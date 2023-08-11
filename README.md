@@ -6,9 +6,9 @@
 
 <li>🌱 I hope to be a Frontend Engineer.</li>
 <li>📚 I'm currently learning JavaScript, React and so on.</li>
-<li>💻 Most of my projects are available on [Github](https://github.com/misung-dev)</li>
-<li>💫 I'm a 10th member of a programming club [APPS.](https://github.com/APPS-sookmyung) (2023.3~)</li>
-<li>💬 Get in touch with me through [Instagram](https://www.instagram.com/ryumnii/) and [Gmail](mailto: misung.dev@gmail.com).</li>
+<li>💻 Most of my projects are available on <a href="https://github.com/misung-dev">Github</a></li>
+<li>💫 I'm a 10th member of a programming club <a href="https://github.com/APPS-sookmyung">APPS.</a> (2023.3~)</li>
+<li>💬 Get in touch with me through <a href="https://www.instagram.com/ryumnii/">Instagram</a> and <a href="mailto: misung.dev@gmail.com">Gmail</a>.</li>
    
 <br/>
 
