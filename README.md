@@ -7,7 +7,7 @@
 <li>🌱 I am a Computer Science major at Sookmyung Women's University.</li>
 <li>✨ I hope to be a Front-end Developer.</li>
 <li>🔭 I'm currently learning JavaScript, React and so on.</li>
-<li>👩🏻‍💻 Most of my projects are available on <a href="https://github.com/misung-dev">Github</a></li>
+<li>👩🏻‍💻 Most of my projects are available on <a href="https://github.com/misung-dev">Github</a>.</li>
 
 <li>💬 Get in touch with me through <a href="https://www.linkedin.com/in/misungdev/">LinkedIn</a>, <a href="https://www.instagram.com/ryumnii/">Instagram</a> and <a href="mailto: misung.dev@gmail.com">Gmail</a>.</li>
    
@@ -40,7 +40,7 @@
 
 | Title                   | Summary                                                | Stack      | Duration          | Type       | More                                                                     |
 | ----------------------- | ------------------------------------------------------ | ---------- | ----------------- | ---------- | ------------------------------------------------------------------------ |
-| DevInsight              | IT 기업들의 기술 동향을 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 진행중  | Individual | [Github](https://github.com/APPS-sookmyung/2023-DevInsight)              |
+| DevInsight              | IT 기업들의 기술 동향을 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 진행중  | Individual | [Github](https://github.com/misung-dev/2023-DevInsight)                  |
 | AppsCheck               | 출석체크 모바일 어플리케이션                           | React      | 2023.07 ~ 진행중  | Team       | [Github](https://github.com/APPS-sookmyung/2023-AppsCheck)               |
 | 2023 APPS 온라인 전시회 | 소프트웨어학부 개발 동아리 전시회 웹사이트             | React      | 2023.09 ~ 진행중  | Team       | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) |
 | 바로키                  | 바로 이동하는 안전 키워드 웹사이트                     | React      | 2023.11 ~ 2023.11 | Team       | [Github](https://github.com/UniD3-Hackathon-Team4/barokey)               |
