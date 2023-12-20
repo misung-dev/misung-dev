@@ -40,9 +40,9 @@
 
 | Title                   | Summary                                                | Stack      | Duration          | Type       | More                                                                     |
 | ----------------------- | ------------------------------------------------------ | ---------- | ----------------- | ---------- | ------------------------------------------------------------------------ |
-| DevInsight              | IT 기업들의 기술 동향을 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 진행중  | Individual | [Github](https://github.com/misung-dev/2023-DevInsight)                  |
+| DevInsight              | IT 기업들의 기술 동향을 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 2023.12 | Individual | [Github](https://github.com/misung-dev/2023-DevInsight)                  |
 | AppsCheck               | 출석체크 모바일 어플리케이션                           | React      | 2023.07 ~ 진행중  | Team       | [Github](https://github.com/APPS-sookmyung/2023-AppsCheck)               |
-| 2023 APPS 온라인 전시회 | 소프트웨어학부 개발 동아리 전시회 웹사이트             | React      | 2023.09 ~ 진행중  | Team       | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) |
+| 2023 APPS 온라인 전시회 | 소프트웨어학부 개발 동아리 전시회 웹사이트             | React      | 2023.09 ~ 2023.12 | Team       | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) |
 | 바로키                  | 바로 이동하는 안전 키워드 웹사이트                     | React      | 2023.11 ~ 2023.11 | Team       | [Github](https://github.com/UniD3-Hackathon-Team4/barokey)               |
 
 <br>
