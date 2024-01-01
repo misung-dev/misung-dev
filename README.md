@@ -25,25 +25,15 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 
-### Tools
-
-<div style="display: flex; gap: 6px;">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
 <br/>
 
-## ☀️ Projects
+## 🛼 Projects
 
-| Title                   | Summary                                                | Stack      | Duration          | Type       | More                                                                     |
-| ----------------------- | ------------------------------------------------------ | ---------- | ----------------- | ---------- | ------------------------------------------------------------------------ |
-| DevInsight              | IT 기업들의 기술 동향을 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 2023.12 | Individual | [Github](https://github.com/misung-dev/2023-DevInsight)                  |
-| AppsCheck               | 출석체크 모바일 어플리케이션                           | React      | 2023.07 ~ 진행중  | Team       | [Github](https://github.com/APPS-sookmyung/2023-AppsCheck)               |
-| 2023 APPS 온라인 전시회 | 소프트웨어학부 개발 동아리 전시회 웹사이트             | React      | 2023.09 ~ 2023.12 | Team       | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) |
-| 바로키                  | 바로 이동하는 안전 키워드 웹사이트                     | React      | 2023.11 ~ 2023.11 | Team       | [Github](https://github.com/UniD3-Hackathon-Team4/barokey)               |
+|             Title              |                           Summary                            |   Stack    |     Duration      |    Type    |                                   More                                   |
+| :----------------------------: | :----------------------------------------------------------: | :--------: | :---------------: | :--------: | :----------------------------------------------------------------------: |
+|           DevInsight           | IT 기업들의 기술 동향을 <br/> 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 2023.12 | Individual |         [Github](https://github.com/misung-dev/2023-DevInsight)          |
+|           AppsCheck            |                 출석체크 모바일 어플리케이션                 |   React    | 2023.07 ~ 진행중  |    Team    |        [Github](https://github.com/APPS-sookmyung/2023-AppsCheck)        |
+| 2023 APPS <br> 전시회 웹페이지 |          소프트웨어학부 개발 동아리 전시회 웹사이트          |   React    | 2023.09 ~ 2023.12 |    Team    | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) |
 
 <br>
 
@@ -53,4 +43,5 @@
 - <a href="https://github.com/APPS-sookmyung">APPS</a>, 11th Front-end Leader of a Mobile Application Development Club `[2024.03 ~ 2024.12]`
 - <a href="https://github.com/UMC-SMWU">UMC</a>, 5th member of a Programming Club `[2023.09 ~ 2024.02]`
 - Participated in Sookmyung X Sungshin Women's University Ideathon `[2023.06]`
-- Participated in the <a href="https://www.instagram.com/2023_unid_official/">3rd Uni-DTHON</a> Hackathon `[2023.11]`
+- Participated in the <a href="https://www.instagram.com/2023_unid_official/">3rd Uni-DTHON</a> Hackathon `[2023.11]` [Github](https://github.com/UniD3-Hackathon-Team4/barokey)
+- Participated in Sookmyung X Kookmin University Hackathon 'COKOTHON' - Top Excellence Award 🏆 `[2023.12]`
