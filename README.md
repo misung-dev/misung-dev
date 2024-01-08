@@ -43,5 +43,5 @@
 - <a href="https://github.com/APPS-sookmyung">APPS</a>, 11th Front-end Leader of a Mobile Application Development Club `[2024.03 ~ 2024.12]`
 - <a href="https://github.com/UMC-SMWU">UMC</a>, 5th member of a Programming Club `[2023.09 ~ 2024.02]`
 - Participated in Sookmyung X Sungshin Women's University Ideathon `[2023.06]`
-- Participated in the <a href="https://www.instagram.com/2023_unid_official/">3rd Uni-DTHON</a> Hackathon `[2023.11]` [Github](https://github.com/UniD3-Hackathon-Team4/barokey)
-- Participated in Sookmyung X Kookmin University Hackathon 'COKOTHON' - Top Excellence Award 🏆 `[2023.12]`
+- Participated in <a href="https://www.instagram.com/2023_unid_official/">The 3rd Uni-DTHON Hackathon</a> `[2023.11]` [Github](https://github.com/UniD3-Hackathon-Team4/barokey)
+- Participated in Sookmyung X Kookmin University Hackathon <a href='https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e'>'The 2nd COKOTHON'</a> - Top Excellence Award 🏆 `[2023.12]` [Github](https://github.com/cokothon-team7/PicPuzzle-client)
