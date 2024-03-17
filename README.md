@@ -34,6 +34,7 @@
 |           DevInsight           | IT 기업들의 기술 동향을 <br/> 한 곳에서 확인 가능한 웹사이트 | Vanilla JS | 2023.07 ~ 2023.12 | Individual |               [Github](https://github.com/misung-dev/2023-DevInsight) [Website](https://2023-dev-insight.vercel.app/)                |
 |           AppsCheck            |                 출석체크 모바일 어플리케이션                 |   React    | 2023.07 ~ 진행중  |    Team    |                                      [Github](https://github.com/APPS-sookmyung/2023-AppsCheck)                                      |
 | 2023 APPS <br> 전시회 웹페이지 |          소프트웨어학부 개발 동아리 전시회 웹사이트          |   React    | 2023.09 ~ 2023.12 |    Team    | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) |
+|            TeamMate            |               모든 운동을 위한 팀 매칭 서비스                |   React    | 2024.01 ~ 2024.02 |    Team    |                                         [Github](https://github.com/TiimMate/TeamMateClient)                                         |
 
 <br>
 
