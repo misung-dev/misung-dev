@@ -1,6 +1,16 @@
 ## Hi, I’m misung 👋
 
-<img align="right" alt="GIF" src="img/techstack.gif" width="200px"/>
+<!-- <img align="right" alt="GIF" src="img/techstack.gif" width="200px"/> -->
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/misung-dev"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 
 ## 🧐 About Me
 
