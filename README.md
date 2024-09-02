@@ -25,7 +25,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/>
 
@@ -40,7 +40,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 | IT 기업들의 기술 동향을 모아보는 서비스, DevInsight | Vanilla JS | 2023.07 ~ 2023.12 | <img src="https://img.shields.io/badge/-Individual-pink"/> |                                       [Github](https://github.com/misung-dev/2023-DevInsight) [Website](https://2023-dev-insight.vercel.app/)                                        |
 |  소프트웨어학부 개발 학회 APPS, 2023 온라인 전시회  |   React    | 2023.09 ~ 2023.12 |    <img src="https://img.shields.io/badge/-Team-pink"/>    | [Github](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) [Review](https://ryumii.hashnode.dev/2023-apps) |
 |      모든 운동을 위한 팀 매칭 서비스, 팀메이트      |   React    | 2024.01 ~ 2024.02 |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                                 [Github](https://github.com/TiimMate/TeamMateClient)                                                                 |
-|       온라인 명함 관리 서비스, 위렛 (WELLET)        |   React    |   2024.03 ~ ing   |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                            [Github](https://github.com/APPS-sookmyung/2024-WELLET-client)                                                            |
+|            온라인 명함 관리 서비스, 위렛            |   React    |   2024.03 ~ ing   |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                            [Github](https://github.com/APPS-sookmyung/2024-WELLET-client)                                                            |
 |   내 손 안에 간편한 행사 관리 시스템, 체크메이트    |   React    |   2024.05 ~ ing   |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                          [Github](https://github.com/CheckMate-sookmyung/CheckMate-client)                                                           |
 |          숙명인을 위한 커뮤니티, 스노로즈           |   React    |   2024.06 ~ ing   |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                               [Github](https://github.com/snorose/snorose-front-react)                                                               |
 |  소프트웨어학부 개발 학회 APPS, 2024 온라인 전시회  |   React    |   2024.08 ~ ing   |    <img src="https://img.shields.io/badge/-Team-pink"/>    |                                                       [Github](https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage)                                                       |
@@ -60,3 +60,9 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 ## 🏆 Award
 
 - Sookmyung X Kookmin University Hackathon <a href='https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e'>'The 2nd COKOTHON'</a> 🏅Top Excellence Award🏅 `[2023.12]` [Github](https://github.com/cokothon-team7/PicPuzzle-client) [Review](https://ryumii.hashnode.dev/2-cokothon-2023)
+
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br>
