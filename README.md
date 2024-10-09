@@ -27,7 +27,6 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/>
 
@@ -51,20 +50,16 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 ## 🎢 Experiences
 
-- <a href="https://github.com/APPS-sookmyung">APPS</a>, 11th Front-end Leader of a Mobile Application Development Club `[2024.03 ~ ing]`
-- <a href="https://github.com/APPS-sookmyung">APPS</a>, 10th member of a Mobile Application Development Club `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
-- <a href="https://github.com/UMC-SMWU">UMC</a>, 5th member of an IT Alliance Club launching an App/Web Service - Web Part `[2023.09 ~ 2024.02]`
-- Participated in <a href="https://www.instagram.com/2023_unid_official/">The 3rd Uni-DTHON Hackathon</a> `[2023.11]` [Github](https://github.com/UniD3-Hackathon-Team4/barokey) [Review](https://ryumii.hashnode.dev/3-uni-dthon)
-- Participated in Sookmyung X Sungshin Women's University Ideathon `[2023.06]`
+- <a href="https://github.com/APPS-sookmyung">APPS</a>, 웹·앱 개발 학회 11기 - 프론트엔드장 활동 중 `[2024.03 ~ ing]`
+- <a href="https://github.com/APPS-sookmyung">APPS</a>, 웹·앱 개발 학회 10기 - 수료 `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
+- <a href="https://github.com/UMC-SMWU">UMC</a>, IT 연합 사이트 프로젝트 동아리 5기 - Web Part 수료 `[2023.09 ~ 2024.02]`
+- 2023 대학 연합 해커톤 <a href="https://www.instagram.com/2024_uni_d/">'제3회 UNI-DTHON'</a> 참여 `[2023.11]` [Github](https://github.com/UniD3-Hackathon-Team4/barokey) [Review](https://ryumii.hashnode.dev/3-uni-dthon)
+- 2023 숙명여대 X 성신여대 연합 아이디어톤 참여 `[2023.06]`
 
 <br>
 
 ## 🏆 Award
 
-- Sookmyung X Kookmin University Hackathon <a href='https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e'>'The 2nd COKOTHON'</a> 🏅Top Excellence Award🏅 `[2023.12]` [Github](https://github.com/cokothon-team7/PicPuzzle-client) [Review](https://ryumii.hashnode.dev/2-cokothon-2023)
-
-<br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+- 2023 숙명여대 X 국민대 연합 해커톤 <a href='https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e'>'제2회 코코톤'</a> 🏅최우수상🏅 `[2023.12]` [Github](https://github.com/cokothon-team7/PicPuzzle-client) [Review](https://ryumii.hashnode.dev/2-cokothon-2023)
 
 <br>
