@@ -36,7 +36,8 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 | :-----------------------------------------------: | :---: | :---------------: | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |         숙명인을 위한 커뮤니티, 스노로즈          | React |   2024.06 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                             [GitHub](https://github.com/snorose/snorose-front-react) [Website](https://www.snorose.com/)                                             |
 |  내 손 안에 간편한 행사 관리 시스템, 체크메이트   | React | 2024.05 ~ 2024.09 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                               [GitHub](https://github.com/CheckMate-sookmyung) [Website](https://www.checkmate.pe.kr/)                                               |
-|           온라인 명함 관리 서비스, 위렛           | React | 2024.03 ~ 2024.12 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                                            [GitHub](https://github.com/APPS-sookmyung/2024-WELLET-client)                                                            |
+|           온라인 명함 관리 서비스, 위렛           | React |   2024.03 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                                            [GitHub](https://github.com/APPS-sookmyung/2024-WELLET-client)                                                            |
+|           Zoom 로그 분석 서비스, 이지줌           | React |   2024.11 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                                          [GitHub](https://github.com/EZZ00M) [Website](http://ezzoom.site/)                                                          |
 | 소프트웨어학부 개발 학회 APPS, 2023 온라인 전시회 | React | 2023.09 ~ 2023.12 | <img src="https://img.shields.io/badge/-Team-pink"/> | [GitHub](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) [Review](https://ryumii.hashnode.dev/2023-apps) |
 | 소프트웨어학부 개발 학회 APPS, 2024 온라인 전시회 | React | 2024.11 ~ 2024.12 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                  [GitHub](https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage) [Website](https://2024-apps.netlify.app/)                                  |
 
@@ -44,6 +45,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 ## 🎢 Activities
 
+- <a href="https://www.instagram.com/snorose1906/">스노로즈</a>, 숙명인을 위한 커뮤니티 - 개발팀, 운영기획팀 `[2024.05 ~ ing]`
 - <a href="https://github.com/APPS-sookmyung">APPS</a>, 소프트웨어학부 개발 학회 11기 - 프론트엔드장 `[2024.01 ~ 2024.12]`
 - <a href="https://github.com/APPS-sookmyung">APPS</a>, 소프트웨어학부 개발 학회 10기 `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
 - <a href="https://github.com/UMC-SMWU">UMC</a>, IT 연합 사이트 프로젝트 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
