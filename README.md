@@ -1,4 +1,4 @@
-## 👋 Hi Welcome, i'm MISUNG RYU!
+## 👋 Hi Welcome, i'm Misung Ryu!
 
 <a href="https://www.linkedin.com/in/misungdev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://ryumii.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>
@@ -19,14 +19,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 ## 🛠 Skills
 
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,emotion)](https://skillicons.dev)
 
 <br>
 
