@@ -49,7 +49,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 - 2024 숙명여대 캠퍼스타운 X AWS <a href='http://campustown.bnp21.co.kr/user/cmm/selectArticleDetail.do?bbsId=BBSMSTR_000000000005&pageUnit=8&menuId=050100&bbsTyCode=BBST02&nttId=31531'>'Gen AI Playground Hackathon'</a> 🏅우수상🏅 `[2024.11]` [GitHub](https://github.com/2024-AWS-GenAI-Hackathon) [Review](https://ryumii.hashnode.dev/x-aws-gen-ai-playground-hackathon)
 - 2023 숙명여대 X 국민대 연합 해커톤 <a href='https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e'>'제2회 코코톤'</a> 🏅최우수상🏅 `[2023.12]` [GitHub](https://github.com/cokothon-team7/PicPuzzle-client) [Review](https://ryumii.hashnode.dev/2-cokothon-2023)
-- 2024 제 7회 Ne(o)rdinary Hackathon - 참여 `[2024.11]` [GitHub](https://github.com/Neordinary-Hackathon-TeamO)
+- 2024 제 7회 Ne(o)rdinary Hackathon - 참여 `[2024.11]` [GitHub](https://github.com/Neordinary-Hackathon-TeamO) [Review](https://ryumii.hashnode.dev/7-neordinary-hackathon)
 - 2023 대학 연합 해커톤 <a href="https://www.instagram.com/2024_uni_d/">'제3회 UNI-DTHON'</a> - 참여 `[2023.11]` [GitHub](https://github.com/UniD3-Hackathon-Team4/barokey) [Review](https://ryumii.hashnode.dev/3-uni-dthon)
 - 2023 숙명여대 X 성신여대 연합 아이디어톤 - 참여 `[2023.06]`
 
