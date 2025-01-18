@@ -19,7 +19,7 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 ## 🛠 기술 스택
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,emotion)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,styledcomponents,emotion)
 
 <br>
 
