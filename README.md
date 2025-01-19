@@ -40,10 +40,10 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 > 학회 및 동아리
 
-- <a href="https://www.instagram.com/snorose1906/">스노로즈</a>, 숙명인을 위한 커뮤니티 - 개발팀, 운영기획팀 `[2024.05 ~ ing]`
-- <a href="https://github.com/APPS-sookmyung">APPS</a>, 소프트웨어학부 개발 학회 11기 - 프론트엔드장 `[2024.01 ~ 2024.12]`
-- <a href="https://github.com/APPS-sookmyung">APPS</a>, 소프트웨어학부 개발 학회 10기 `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
-- <a href="https://github.com/UMC-SMWU">UMC</a>, IT 사이드 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
+- <a href="https://www.instagram.com/snorose1906/" target="_blank">스노로즈</a>, 숙명인을 위한 커뮤니티 - 개발팀, 운영기획팀 `[2024.05 ~ ing]`
+- <a href="https://github.com/APPS-sookmyung" target="_blank">APPS</a>, 소프트웨어학부 개발 학회 11기 - 프론트엔드장 `[2024.01 ~ 2024.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g6rcc67ccio2vme2ajcdsmrtsmihsp4tsnyqg66ei7lmy66mwia)
+- <a href="https://github.com/APPS-sookmyung" target="_blank">APPS</a>, 소프트웨어학부 개발 학회 10기 `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
+- <a href="https://github.com/UMC-SMWU" target="_blank">UMC</a>, IT 사이드 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
 
 > 수상
 
