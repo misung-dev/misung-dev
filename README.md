@@ -40,15 +40,19 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 
 > 학회 및 동아리
 
-- [스노로즈](https://www.instagram.com/snorose1906/), 숙명인을 위한 커뮤니티 - 개발팀 `[2024.05 ~ ing]` [Review](https://ryumii.hashnode.dev/snorose-test)
+- [스노로즈](https://www.instagram.com/snorose1906/), 숙명인을 위한 커뮤니티 - 프론트엔드팀 `[2024.05 ~ ing]` [Review](https://ryumii.hashnode.dev/snorose-test)
 - [APPS](https://github.com/APPS-sookmyung), 소프트웨어학부 개발 학회 11기 - 프론트엔드장 `[2024.01 ~ 2024.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g6rcc67ccio2vme2ajcdsmrtsmihsp4tsnyqg66ei7lmy66mwia)
 - [APPS](https://github.com/APPS-sookmyung), 소프트웨어학부 개발 학회 10기 `[2023.03 ~ 2023.12]` [Review](https://ryumii.hashnode.dev/w2ajoqzof0g7ju5wrfslbeg6rcc67ccio2vme2ajcdsijjro4wg)
 - [UMC](https://github.com/UMC-SMWU), IT 사이드 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
+
+<br>
 
 > 수상
 
 - 2024 숙명여대 캠퍼스타운 X AWS ['Gen AI Playground Hackathon'](http://campustown.bnp21.co.kr/user/cmm/selectArticleDetail.do?bbsId=BBSMSTR_000000000005&pageUnit=8&menuId=050100&bbsTyCode=BBST02&nttId=31531) 🏅우수상🏅 `[2024.11]` [GitHub](https://github.com/2024-AWS-GenAI-Hackathon) [Review](https://ryumii.hashnode.dev/x-aws-gen-ai-playground-hackathon)
 - 2023 숙명여대 X 국민대 연합 해커톤 ['제2회 코코톤'](https://cuboid-pipe-5a7.notion.site/2-COKOTHON-2023-4eb9005f434744fe9d0ba53e3b82c91e) 🏅최우수상🏅 `[2023.12]` [GitHub](https://github.com/cokothon-team7/PicPuzzle-client) [Review](https://ryumii.hashnode.dev/2-cokothon-2023)
+
+<br>
 
 > 대회 참가
 
