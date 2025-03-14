@@ -5,12 +5,13 @@
 <a href="https://www.instagram.com/ryumnii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto: misung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/misung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<br>
-
 <p>
-I am Majoring in Computer Science at Sookmyung Women's University with a focus on becoming a Front-end Developer. <br/>
-My studies include learning React, JavaScript, and other relevant technologies. ✨ <br/><br/>
-I like to get excited about new things and take on challenges.🏄🏻‍♀️🍨🔭🥊
+
+I majored in Computer Science at Sookmyung Women's University.<br/>
+With the goal of becoming a front-end developer, I studied React, TypeScript, JavaScript, and other related technologies. ✨
+✨ <br/><br/>
+I enjoy exploring new things and taking on challenges. 🏄🏻‍♀️🍨🔭🥊
+
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmisung-dev&count_bg=%23A4D8F2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -37,6 +38,12 @@ I like to get excited about new things and take on challenges.🏄🏻‍♀️�
 <br>
 
 ## 🎢 활동
+
+> 인턴십
+
+- goorm, 풀스택 엔지니어 인턴 `[2024.12 ~ 2025.03]`
+
+<br>
 
 > 학회 및 동아리
 
