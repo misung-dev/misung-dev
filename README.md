@@ -14,8 +14,6 @@ I enjoy exploring new things and taking on challenges. 🏄🏻‍♀️🍨🔭
 
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmisung-dev&count_bg=%23A4D8F2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <br>
 
 ## 🛠 기술 스택
@@ -29,9 +27,9 @@ I enjoy exploring new things and taking on challenges. 🏄🏻‍♀️🍨🔭
 |                       Title                       | Stack |     Duration      |                         Type                         |                                                                                         More                                                                                         |
 | :-----------------------------------------------: | :---: | :---------------: | :--------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |         숙명인을 위한 커뮤니티, 스노로즈          | React |   2024.06 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                             [GitHub](https://github.com/snorose/snorose-front-react) [Website](https://www.snorose.com/)                                             |
-|  내 손 안에 간편한 행사 관리 시스템, 체크메이트   | React | 2024.05 ~ 2024.09 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                               [GitHub](https://github.com/CheckMate-sookmyung) [Website](https://www.checkmate.pe.kr/)                                               |
-|           온라인 명함 관리 서비스, 위렛           | React |   2024.03 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                            [GitHub](https://github.com/APPS-sookmyung/2024-WELLET-client) [Website](https://wellet.site/)                                            |
-|           Zoom 로그 분석 서비스, 이지줌           | React |   2024.11 ~ ing   | <img src="https://img.shields.io/badge/-Team-pink"/> |                                                          [GitHub](https://github.com/EZZ00M) [Website](http://ezzoom.site/)                                                          |
+|  내 손 안에 간편한 행사 관리 시스템, 체크메이트   | React | 2024.05 ~ 2024.09 | <img src="https://img.shields.io/badge/-Team-pink"/> |                              [GitHub](https://github.com/CheckMate-sookmyung) [Website](https://check-mate-sookmyung-check-mate-sookmyung.vercel.app/)                               |
+|      OCR 기반 온라인 명함 관리 서비스, 위렛       | React | 2024.03 ~ 2025.03 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                            [GitHub](https://github.com/APPS-sookmyung/2024-WELLET-client) [Website](https://wellet.site/)                                            |
+|           Zoom 로그 분석 서비스, 이지줌           | React | 2024.11 ~ 2024.12 | <img src="https://img.shields.io/badge/-Team-pink"/> |                                                          [GitHub](https://github.com/EZZ00M) [Website](http://ezzoom.site/)                                                          |
 | 소프트웨어학부 개발 학회 APPS, 2023 온라인 전시회 | React | 2023.09 ~ 2023.12 | <img src="https://img.shields.io/badge/-Team-pink"/> | [GitHub](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) [Website](https://2023-apps-exhibition-webpage.vercel.app/) [Review](https://ryumii.hashnode.dev/2023-apps) |
 | 소프트웨어학부 개발 학회 APPS, 2024 온라인 전시회 | React | 2024.11 ~ 2024.12 | <img src="https://img.shields.io/badge/-Team-pink"/> |          [GitHub](https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage) [Website](https://2024-apps.netlify.app/) [Review](https://ryumii.hashnode.dev/2024-apps)          |
 
@@ -41,7 +39,7 @@ I enjoy exploring new things and taking on challenges. 🏄🏻‍♀️🍨🔭
 
 > 인턴십
 
-- goorm, 풀스택 엔지니어 인턴 `[2024.12 ~ 2025.03]`
+- goorm, 풀스택 엔지니어 인턴 `[2024.12 ~ 2025.06]`
 
 <br>
 
