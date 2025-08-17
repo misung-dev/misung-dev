@@ -18,7 +18,7 @@ I enjoy exploring new things and taking on challenges. 🏄🏻‍♀️🍨🔭
 
 ## 🛠 기술 스택
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,styledcomponents,emotion)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,emotion,tailwind)
 
 <br>
 
